@@ -1,0 +1,2 @@
+class StateNumberError < StandardError
+end
